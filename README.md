@@ -1,3 +1,4 @@
 # hello-world
-i just wanna learn something new
-sup ya'll
+okay so this is how you make commits.
+
+good.
